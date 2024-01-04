@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+}
+
+i {
+    font-size: 45px;
+}
+
+.custom-container {
+    max-width: 124em; /* 사용자 정의 클래스로 최대 너비를 지정합니다. */
+    margin: 0 auto; /* 가운데 정렬을 위해 auto 마진을 추가합니다. */
+  }
+
+
